@@ -1,5 +1,5 @@
 <div align="center">
-    <img src=".github/Logo_main_black.png" width="300">
+    <img src=".github/PCTO/Blender/Scritta/scritta.png" width="300">
 </div>
 
 -----------------
